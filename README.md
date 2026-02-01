@@ -4,6 +4,8 @@ This project uses a Python virtual environment (`venv`) to manage dependencies a
 
 ---
 
+dataset located at  **assets** /
+
 ## Prerequisites
 
 Make sure **Python 3** is installed on your system:
